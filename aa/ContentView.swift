@@ -11,7 +11,7 @@ struct ContentView: View {
     var body: some View {
         VStack{
             HStack{
-                Image(systemName: "chevron.left")
+                Image(systemName: "chevron.right")
                 Spacer()
                 Image(systemName: "cart")
             }
